@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://inaplana.github.io/sitemap.html.gz
+Sitemap: https://inaplana.github.io/app/sitemap.html.gz
+Sitemap: https://inaplana.github.io/assets/sitemap.html.gz
+Sitemap: https://inaplana.github.io/css/sitemap.html.gz
+Sitemap: https://inaplana.github.io/includes/sitemap.html.gz
+Sitemap: https://inaplana.github.io/item/sitemap.html.gz
+Sitemap: https://inaplana.github.io/src/sitemap.html.gz
